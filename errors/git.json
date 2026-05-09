@@ -1,0 +1,26 @@
+[
+  {
+    "pattern": "failed to push",
+    "cinwaan": "Push-ku fashilmay",
+    "sabab": "Koodkaagu ka dambeeyaa server-ka",
+    "xal": "Marka hore `git pull` qor, kadibna `git push` isku day"
+  },
+  {
+    "pattern": "not a git repository",
+    "cinwaan": "Folder-kan Git ma aqoonsado",
+    "sabab": "Weli git lama bilaamin folder-kan",
+    "xal": "Marka hore `git init` qor"
+  },
+  {
+    "pattern": "permission denied",
+    "cinwaan": "Oggolaansho ma haysatid",
+    "sabab": "SSH key-kaaga server-ka lama xidna",
+    "xal": "SSH key-kaaga hubi ama `git remote` url-ka xidid"
+  },
+  {
+    "pattern": "fatal: could not read from remote repository",
+    "cinwaan": "Server-ka lama gaadhi karin",
+    "sabab": "Internet khalad ah ama SSH key ma haysatid",
+    "xal": "Internetka hubi, ama SSH key-kaaga xaqiiji"
+  }
+]

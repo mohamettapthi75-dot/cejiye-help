@@ -1,0 +1,20 @@
+[
+  {
+    "pattern": "SyntaxError",
+    "cinwaan": "Qoraalka Koodhka Khaldan yahay",
+    "sabab": "Xaraf ama calaamad khaldan baa jirta",
+    "xal": "Layska aad hoose eeg,括号 ama quotation marks hubi"
+  },
+  {
+    "pattern": "ModuleNotFoundError",
+    "cinwaan": "Module-ka lama helin",
+    "sabab": "Package-kan wali lama rakibin",
+    "xal": "Qor `pip install <magaca package-ka>`"
+  },
+  {
+    "pattern": "IndentationError",
+    "cinwaan": "Meel-joogsiinta Khaldan tahay",
+    "sabab": "Koodhkaagu si sax ah u dheereyn",
+    "xal": "Spaces-ka hubi, tab iyo space lama qasan karaan"
+  }
+]

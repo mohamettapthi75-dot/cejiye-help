@@ -1,0 +1,38 @@
+[
+  {
+    "pattern": "termux-setup-storage",
+    "cinwaan": "Storage Oggolaansho Ma Haysatid",
+    "sabab": "Termux-ku u ogola in uu faylasha telefoonka galo",
+    "xal": "Qor `termux-setup-storage` kadibna oggolow"
+  },
+  {
+    "pattern": "unable to locate package",
+    "cinwaan": "Package-ka lama helin",
+    "sabab": "Package-kan magaciisu khaldan yahay ama ma jiro",
+    "xal": "Marka hore `pkg update` qor, kadibna isku day"
+  },
+  {
+    "pattern": "pkg: command not found",
+    "cinwaan": "pkg Amarka lama garan",
+    "sabab": "Termux si sax ah uma rakibin",
+    "xal": "Termux dib u rakib F-Droid-ka"
+  },
+  {
+    "pattern": "storage permission",
+    "cinwaan": "Fasax Ma Haysatid",
+    "sabab": "Termux-ku u ogola in uu faylasha galo ma haysato",
+    "xal": "Qor `termux-setup-storage`"
+  },
+  {
+    "pattern": "no space left",
+    "cinwaan": "Telefoonnka Booska Buuxay",
+    "sabab": "Telefoonkaagu meel ka weyni ma haysato",
+    "xal": "Faylasha aan lagama baahnayn tirtir, kadibna isku day"
+  },
+  {
+    "pattern": "killed",
+    "cinwaan": "Barnaamijka Joojiyay",
+    "sabab": "Telefoonku xasuusta (RAM) buuxay",
+    "xal": "Apps kale xidh, kadibna isku day"
+  }
+]

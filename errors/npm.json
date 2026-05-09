@@ -1,0 +1,32 @@
+[
+  {
+    "pattern": "command not found",
+    "cinwaan": "Amarka lama garan",
+    "sabab": "Barnaamijkan wali lama rakibin",
+    "xal": "Qor `pkg install <magaca barnaamijka>`"
+  },
+  {
+    "pattern": "ENOENT",
+    "cinwaan": "Faylka lama helin",
+    "sabab": "Faylka aad doonaysid ma jiro meesha aad joogto",
+    "xal": "Qor `ls` si aad u aragto faylasha jira"
+  },
+  {
+    "pattern": "EACCES",
+    "cinwaan": "Oggolaansho ma haysatid",
+    "sabab": "Termux-ku u ogola mid kaa maqan",
+    "xal": "Qor `termux-setup-storage` kadibna isku day"
+  },
+  {
+    "pattern": "network error",
+    "cinwaan": "Internet khalad",
+    "sabab": "Internetka waa jab ama tarfoor gaabis",
+    "xal": "Internetka hubi kadibna isku day"
+  },
+  {
+    "pattern": "cannot find module",
+    "cinwaan": "Module-ka lama helin",
+    "sabab": "Package-kan wali lama rakibin",
+    "xal": "Qor `npm install <magaca package-ka>`"
+  }
+]
