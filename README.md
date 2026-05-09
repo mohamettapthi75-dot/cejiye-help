@@ -46,3 +46,58 @@ sharxaa si aad u fahanto, si aad u barato.
 **Mohamet** 🇸🇴 — Soomaali, Termux, Python
 
 ⭐ Haddaad jeclaan lahayd — star-ka taabso!
+
+
+
+
+
+
+
+# cejiye-help 🇸🇴
+
+> The world's first coding error tool that speaks Somali.
+
+When you get a coding error — cejiye-help explains it in Somali
+with the cause and the fix. Works in Termux, no internet needed.
+
+## Example
+
+cejiye git push
+
+⚠️  ERROR: Push-ku fashilmay
+📋 Cause:  Koodkaagu ka dambeeyaa server-ka
+✅ Fix:    Marka hore `git pull` qor, kadibna `git push` isku day
+
+## Installation
+
+git clone https://github.com/mohamettapthi75-dot/cejiye-help.git
+cd cejiye-help
+bash install.sh
+
+## Commands
+
+| Command | Description |
+|---------|-------------|
+| `cejiye list` | Show all known errors |
+| `cejiye add` | Add a new error |
+| `cejiye history` | View error history |
+| `cejiye stats` | Show most common errors |
+
+## Supported Tools
+
+- 🔧 Git — push, pull, merge
+- 🐍 Python — syntax, modules
+- 📦 NPM — install, modules
+- 📱 Termux — storage, packages
+
+## Why I Built This
+
+Somali developers learning to code have no resources
+in their language. cejiye-help solves that — explaining
+errors in Somali so anyone can understand and learn.
+
+## Author
+
+**Mohamet** 🇸🇴 — Somalia, Termux, Python
+
+⭐ If you find this useful — leave a star!
